@@ -1,6 +1,5 @@
 import React, { useEffect, useRef } from "react";
 import PropTypes from "prop-types";
-import { VideoPosterURL } from "../assets/constants";
 import { Video } from "../styles/videoPlayerStyles";
 
 const VideoPlayer = ({ src }) => {
@@ -19,7 +18,6 @@ const VideoPlayer = ({ src }) => {
       autoPlay
       controls
       muted
-      poster={VideoPosterURL}
     ></Video>
   );
 };
