@@ -42,4 +42,4 @@ jobs:
           service_account_key: ${{ secrets.GKE_KEY }}
 
       - name: Depoly to Bucket
-        run: gsutil -m cp -r build/* gs://live.seonglae.com
+        run: gsutil -m cp -r build/* gs://live.seongland.com
