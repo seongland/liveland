@@ -20,7 +20,7 @@ const VideoDetails = ({ viewers }) => {
       </DetailsTop>
       <DetailHeadingBox>
         <DetailsTitle>
-          <DetailsHeading>Welcome to Seongland Live</DetailsHeading>
+          <DetailsHeading>Seongland Broadcast</DetailsHeading>
         </DetailsTitle>
       </DetailHeadingBox>
     </VideoDetailsContainer>
