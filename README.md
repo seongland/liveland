@@ -2,7 +2,7 @@
 
 ```bash
 # webrtc
-lightspeed-webrtc
+ightspeed-webrtc --ws-port 8888 -addr 0.0.0.0
 
 # ingest
 cd lightspeed-ingest
