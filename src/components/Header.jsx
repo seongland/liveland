@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <MainHeader>
       <HeaderLogoContainer>
-        <h1>Seongland Live Channel</h1>
+        <h1>Seongland Broadcast</h1>
       </HeaderLogoContainer>
     </MainHeader>
   );
