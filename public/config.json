@@ -1,3 +1,3 @@
 {
-  "wsUrl": "wss://home.seongland.com:8888/websocket"
+  "wsUrl": "ws://home.seongland.com:8888/websocket"
 }
